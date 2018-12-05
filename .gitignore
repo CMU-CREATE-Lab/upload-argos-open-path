@@ -1,0 +1,4 @@
+esdr-auth-*.json
+.ipynb_checkpoints
+*.xlsx
+*.csv
